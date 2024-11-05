@@ -1,4 +1,4 @@
-import React from 'react'
+import './SegundaPagina.css'
 
 const SegundaPagina = () => {
   return (
