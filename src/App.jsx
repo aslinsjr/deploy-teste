@@ -4,7 +4,7 @@ import './App.css'
 
 import { Outlet } from 'react-router-dom'
 
-import NavBar from './NavBar'
+import NavBar from './pages/NavBar'
 
 function App() {
   const [count, setCount] = useState(0)
